@@ -56,6 +56,12 @@ Follow the [Upgrade Guides](https://docs.medusajs.com/upgrade-guides/) to keep y
 
 Check out all [available Medusa plugins](https://medusajs.com/plugins/).
 
+to run :  
+- npm install
+- npm run seed
+- npm run dev
+          
+
 ## Community & Contributions
 
 The community and core team are available in [GitHub Discussions](https://github.com/medusajs/medusa/discussions), where you can ask for support, discuss roadmap, and share ideas.
